@@ -1,0 +1,18 @@
+@import "./mixins/mixins";
+@import "variables";
+
+p {
+  color: $primary;
+  font-size: 40px;
+}
+
+.home {
+  background-color: green;
+  color: red;
+  font-size: 40px;
+}
+
+.p-2 {
+  padding: 20px;
+  margin: 20px;
+}
