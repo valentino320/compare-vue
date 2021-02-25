@@ -2,7 +2,7 @@
   <div class="home">
     <section class="hero">
       <div class="container">
-        <h2>Soaring to new heights</h2>
+        <div class="title">Soaring to new heights</div>
         <div class="row">
           <div class="col l10">
             {{ subheading }}
